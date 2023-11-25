@@ -6,6 +6,7 @@ The website offers:
 - 4 different difficutlies for the Sudoku.
 - Playing as a guest, or create an account.
 - With the account, you can keep track of how manu grids you have solved, and of what difficulty.
+- MongoDB database for storing the account's information.
 - Don't worry, all the password are safely stored using bCrypt hash algorithm, as you can see from the code.
 - Logout and delete account.
 <br />
